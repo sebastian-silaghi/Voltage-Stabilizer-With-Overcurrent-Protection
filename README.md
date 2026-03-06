@@ -11,7 +11,7 @@ This project presents the design and simulation of an analog voltage stabilizer 
 - Integrated **overcurrent protection**
 - Stable output voltage across varying load conditions and temperature
 - Thermal behavior analyzed for **0°C – 40°C temperature**
-- **Practical hardware implementation**
+- Practical hardware implementation
 
 ---
 
