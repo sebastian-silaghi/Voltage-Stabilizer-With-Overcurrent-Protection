@@ -15,6 +15,13 @@ This project presents the design and simulation of an analog voltage stabilizer 
 
 ---
 
+## Tools
+
+- **OrCAD Capture** – schematic design  
+- **OrCAD PSpice** – circuit simulation
+
+---
+
 ## Simulation
 
 Simulations were performed in **OrCAD** to evaluate the behavior of the stabilizer under multiple operating scenarios:
@@ -24,10 +31,3 @@ Simulations were performed in **OrCAD** to evaluate the behavior of the stabiliz
 - Temperature variation between **0°C and 40°C**
 
 The simulation results confirm stable voltage and proper activation of the overcurrent protection mechanism for tested conditions.
-
----
-
-## Tools
-
-- **OrCAD Capture** – schematic design  
-- **OrCAD PSpice** – circuit simulation  
